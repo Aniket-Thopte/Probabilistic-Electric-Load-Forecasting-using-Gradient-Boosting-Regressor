@@ -10,4 +10,4 @@
 • Demand, Weather, Economic, Energy, Population Forecasting, Sports Betting, etc.
 
 # 
-![alt-text](img/probabilistic-forecasting-graph.png)
+![alt-text](probabilistic-forecasting-graph.png)
